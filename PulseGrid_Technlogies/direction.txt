@@ -14,3 +14,109 @@ Vercel
 Stripe
 Notion AI
 monitoring dashboards
+
+PulseGrid Technologies
+
+A startup that helps small businesses monitor electricity usage, internet uptime, security cameras, and smart devices from one dashboard.
+
+Think of it like: “IT monitoring + smart building management for small businesses.”
+
+What They Sell
+Main Product
+
+A web dashboard where business owners can:
+
+Monitor power usage
+Detect internet outages
+Track device health
+Get alerts when something breaks
+Control smart devices remotely
+Target Customers
+Cafes
+Small offices
+Retail stores
+Co-working spaces
+Small warehouses
+Brand Personality
+Modern
+Clean
+Reliable
+Slightly futuristic
+Tech-focused but simple enough for non-technical business owners
+Website Goal
+
+The website should convince businesses to:
+
+Understand the product quickly
+Trust the company
+Book a demo or start a trial
+Suggested Pages
+1. Home Page
+
+Sections:
+
+Hero section
+Features
+“How it works”
+Testimonials
+Pricing preview
+CTA section
+
+2. Features Page
+
+Break down:
+
+Energy monitoring
+Device tracking
+Smart alerts
+Remote control
+Analytics dashboard
+
+Good chance to practice:
+
+cards
+icons
+layouts
+responsive grids
+
+3. Pricing Page
+
+Example plans:
+
+Plan	Price	Features
+Starter	$29/mo	1 location
+Growth	$99/mo	5 locations
+Enterprise	Custom	Unlimited
+
+Great practice for:
+
+pricing cards
+hover effects
+comparison layouts
+4. About Page
+
+Include:
+
+Company mission
+Fake team members
+Timeline
+Company values
+
+Practice:
+
+profile cards
+storytelling layout
+5. Contact Page
+
+Include:
+
+Form
+Embedded map
+FAQ
+Contact info
+
+Practice:
+
+forms
+validation
+accessibility
