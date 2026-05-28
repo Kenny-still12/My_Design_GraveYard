@@ -122,3 +122,9 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+.features {
+    height: 100vh;
+    padding: 36px;
+    color: white;
+}
